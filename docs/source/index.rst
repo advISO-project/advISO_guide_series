@@ -61,6 +61,13 @@ Our Guides
 
 Our People
 -----------
+PHW
+SANBI
+Wellcome Sanger Institute
+Cardiff University
+University of the Western Cape
+Test
+
 Project partners
 -----------------
 
