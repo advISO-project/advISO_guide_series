@@ -9,6 +9,8 @@ advISO provides practical tools and training resources to support medical labora
 
 The freely available and accessible modular framework resources can be used independently or as part of a lab's ISO accreditation journey.
 
+--------------------------------------------------------------
+
 The challenges
 ---------------
 
@@ -129,12 +131,12 @@ development of bioinformatics approaches within accredited labs:
      })();
    </script>
 
+--------------------------------------------------------------
+
 Our guides
 -------------
 
 We have created a set of modular guides that are intended to be used independently or together to support laboratories in achieving bioinformatics accreditation. The guides are designed to be practical and accessible, providing step-by-step instructions and resources to help laboratories navigate the accreditation process. They are not intended to be a set of instructions for achieving accreditation, but rather a set of resources to support laboratories in their accreditation journey.
-
-
 
 .. grid:: 2
    :gutter: 3
@@ -183,6 +185,8 @@ We have created a set of modular guides that are intended to be used independent
          :width: 100%
          :align: center
          :class: guide-button
+
+--------------------------------------------------------------
 
 Our People
 -----------
@@ -277,6 +281,7 @@ Project Team Members
 
       Tichaona is the project's Bioinformatics and Genomics Training Development Officer based at Cardiff University.
 
+--------------------------------------------------------------
 
 Project Information
 ---------------------
