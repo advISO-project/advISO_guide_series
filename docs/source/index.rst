@@ -41,13 +41,10 @@ development of bioinformatics approaches within accredited labs:
                   font-weight: 700; font-size: 1rem; padding: 1.3rem 1rem;
                   border: 3px solid #3b82f6; border-radius: 50%; }
 
-     @media (max-width: 760px) {
-       .bm { height: auto; display: flex; flex-direction: column; gap: .8rem; }
-       .bm svg { display: none; }
-       .bm-node, .bm-centre { position: static !important; transform: none !important;
-                              width: auto !important; }
-       .bm-centre { order: -1; border-radius: 12px; }
-     }
+     .bm.stacked { height: auto; display: flex; flex-direction: column; gap: .8rem; }
+     .bm.stacked svg { display: none; }
+     .bm.stacked .bm-node { position: static; transform: none; width: auto; }
+     .bm.stacked .bm-centre { order: -1; border-radius: 12px; }
    </style>
 
    <div class="bm" id="bm1">
@@ -100,9 +97,13 @@ development of bioinformatics approaches within accredited labs:
        });
 
        function layout() {
-         var W = bm.clientWidth, H = bm.clientHeight;
+         // Measure the container, not the window: the Read the Docs content column
+         // is only ~700px wide even on a large screen.
+         bm.classList.remove("stacked");
+         var W = bm.clientWidth;
+         if (W < 560) { bm.classList.add("stacked"); return; }
+         var H = bm.clientHeight;
          svg.setAttribute("width", W); svg.setAttribute("height", H);
-         if (W < 760) return;                          // stacked fallback via CSS
          var cx = W / 2, cy = H / 2, rx = W * 0.37, ry = H * 0.38,
              a = centre.offsetWidth / 2, b = centre.offsetHeight / 2;
 
