@@ -12,7 +12,7 @@ The freely available and accessible modular framework resources can be used inde
 --------------------------------------------------------------
 
 The challenges
----------------
+==============
 
 Bioinformatics is a relatively new modality in medical laboratories. It is a digital, rather than a laboratory discipline. This creates tangible issues when bioinformatics must be integrated into ISO 15189 or 17025 processes that are designed from a laboratory perspective.
 
@@ -134,7 +134,7 @@ development of bioinformatics approaches within accredited labs:
 --------------------------------------------------------------
 
 Our guides
--------------
+==========
 
 We have created a set of modular guides that are intended to be used independently or together to support laboratories in achieving bioinformatics accreditation. The guides are designed to be practical and accessible, providing step-by-step instructions and resources to help laboratories navigate the accreditation process. They are not intended to be a set of instructions for achieving accreditation, but rather a set of resources to support laboratories in their accreditation journey.
 
@@ -189,11 +189,12 @@ We have created a set of modular guides that are intended to be used independent
 --------------------------------------------------------------
 
 Our People
------------
+==========
+
 The advISO project is led by Cardiff University, in collaboration with Public Health Wales, Wellcome Sanger Institute, South African National Bioinformatics Institute, and University of the Western Cape. The project team includes experts in bioinformatics, laboratory accreditation, and training.
 
 Project Leads
-=============
+-------------
 
 
 .. grid:: 1 2 3 3
@@ -236,7 +237,7 @@ Project Leads
 
 
 Project Team Members
-====================
+--------------------
 
 .. grid:: 1 2 3 3
    :gutter: 3
@@ -284,7 +285,7 @@ Project Team Members
 --------------------------------------------------------------
 
 Project Information
----------------------
+===================
 
 These guides have been produced as part of the Wellcome Trust-funded project: *ISO in a Box: Developing a framework to enable the development of end-to-end genomics-based ISO 15189 and ISO 17025 accredited services, anywhere in the world* (Grant Reference: 228162/Z/23/Z). The project is led by Cardiff University, in collaboration with Public Health Wales, Wellcome Sanger Institute, South African National Bioinformatics Institute, and University of the Western Cape.
 
