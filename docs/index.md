@@ -12,7 +12,7 @@ This guide is still under development. Please check back for updates, and feel f
 
 ---
 
-## The advISO Project
+# The advISO Project
 
 The advISO project has developed a modular framework to guide laboratories in achieving international bioinformatics accreditations.
 
@@ -22,7 +22,7 @@ The freely available and accessible modular framework resources can be used inde
 
 ---
 
-## The Challenges
+# The Challenges
 
 Bioinformatics is a relatively new modality in medical laboratories. It is a digital, rather than a laboratory discipline. This creates tangible issues when bioinformatics must be integrated into ISO 15189 or 17025 processes that are designed from a laboratory perspective.
 
@@ -139,7 +139,7 @@ We have identified a set of significant challenges that are holding back the dev
 
 ---
 
-## Our Guides
+# Our Guides
 
 ::::{grid} 2
 :gutter: 3
@@ -198,11 +198,11 @@ We have identified a set of significant challenges that are holding back the dev
 
 ---
 
-## Our People
+# Our People
 
 The advISO project is led by Cardiff University, in collaboration with Public Health Wales, Wellcome Sanger Institute, South African National Bioinformatics Institute, and University of the Western Cape. The project team includes experts in bioinformatics, laboratory accreditation, and training.
 
-### Project Leads
+## Project Leads
 
 ::::{grid} 1 2 3 3
 :gutter: 3
@@ -245,7 +245,7 @@ Peter, a Senior Bioinformatician at the South African National Bioinformatics In
 
 ::::
 
-### Project Team Members
+## Project Team Members
 
 ::::{grid} 1 2 3 3
 :gutter: 3
@@ -302,7 +302,7 @@ Tichaona is the project's Bioinformatics and Genomics Training Development Offic
 
 ---
 
-## Project Information
+# Project Information
 
 These guides have been produced as part of the Wellcome Trust-funded project: *ISO in a Box: Developing a framework to enable the development of end-to-end genomics-based ISO 15189 and ISO 17025 accredited services, anywhere in the world* (Grant Reference: 228162/Z/23/Z). The project is led by Cardiff University, in collaboration with Public Health Wales, Wellcome Sanger Institute, South African National Bioinformatics Institute, and University of the Western Cape.
 
